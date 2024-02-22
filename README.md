@@ -20,8 +20,5 @@ This is a small project I created when first learning React to practise using co
 - Simple component design
 
 ## Challenges/Actions we took to overcome
-Rules Matrix:
-- 
-
 State/Conditional Rendering:
 - This was my first attempt at conditional rendering and what seems easy now, seemed hard then. It took me a while to understand how managing the name state of the user could be used to conditionally render the game itself. 
