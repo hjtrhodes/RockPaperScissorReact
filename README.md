@@ -1,7 +1,7 @@
 # Rock, Paper Scissors Game - Hobby Project
 
-Main Language: Javascript
-Tech Stack: Vite/React
+- Main Language: Javascript
+- Tech Stack: Vite/React
 
 ## Live Deployment
 Click here to see the deployment: [Rock, Paper, Scissors](https://rockpaperscissors-tt4y.onrender.com/)
